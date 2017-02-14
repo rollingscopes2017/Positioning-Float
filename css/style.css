@@ -122,3 +122,21 @@ body {
   text-align: center;
   padding: 15px 0 20px;
 }
+
+.social {
+  position: fixed;
+  top: 720px;
+  right: 0;
+  font-size: 1.6rem;
+  text-align: center;
+  background-color: #fbaf5d;
+  width: 90px;
+  height: 70px;
+  border-width: 1px;
+  border-color:  #362f2d;
+  border-style: solid;
+}
+
+.social p {
+  margin: 7px 0;
+}
