@@ -73,12 +73,17 @@ body {
 .article h1 {
   font-size: 2.4rem;
   font-weight: 400;
-  margin: 10px 0;
+  margin: 10px 0 10px;
+}
+
+.article {
+  margin-top: 0;
+  line-height: 1.4rem;
 }
 
 .article img:first-of-type {
   float: left;
-  margin: 0 20px 20px 0;
+  margin: 0 20px 15px 0;
 }
 
 .article img:last-of-type {
@@ -90,6 +95,7 @@ body {
   height: 35px;
   position: absolute;
   left: 490px;
+  top: 40px;
   border-bottom-right-radius: 10px;
   border-top-right-radius: 10px;
   border-width: 2px;
@@ -105,7 +111,7 @@ body {
 .panels h2 {
   font-size: 1.8rem;
   font-weight: 400;
-  margin: 25px 0;
+  margin: 20px 0;
 }
 
 .panels img {
