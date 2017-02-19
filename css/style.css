@@ -5,7 +5,7 @@ html {
 body {
   height: 2000px;
   font-family: 'PT Sans', sans-serif;
-  color:  #333333;
+  color: #333333;
 }
 
 .clearfix:after {
@@ -58,7 +58,7 @@ body {
   height: 690px;
   padding: 30px;
   border-width: 2px;
-  border-color:  #000000;
+  border-color: #000000;
   border-style: solid;
   position: absolute;
 }
@@ -96,7 +96,7 @@ body {
   border-bottom-right-radius: 10px;
   border-top-right-radius: 10px;
   border-width: 2px;
-  border-color:  #000000;
+  border-color: #000000;
   border-style: solid;
 }
 
@@ -131,7 +131,7 @@ body {
   width: 90px;
   height: 70px;
   border-width: 1px;
-  border-color:  #362f2d;
+  border-color: #362f2d;
   border-style: solid;
 }
 
